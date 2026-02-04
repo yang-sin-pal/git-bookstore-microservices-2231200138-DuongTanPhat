@@ -1,0 +1,15 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:khiemnguyen-eiu/api-gateway.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:khiemnguyen-eiu/frontend.git
+[submodule "order-service"]
+	path = order-service
+	url = git@github.com:khiemnguyen-eiu/order-service.git
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:khiemnguyen-eiu/product-service.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:khiemnguyen-eiu/user-service.git
