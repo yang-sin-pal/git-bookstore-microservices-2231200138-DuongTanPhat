@@ -1,15 +1,15 @@
 [submodule "api-gateway"]
 	path = api-gateway
-	url = git@github.com:khiemnguyen-eiu/api-gateway.git
+	url = git@github.com:yang-sin-pal/CSE303-lab5-api-gateway.git
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:khiemnguyen-eiu/frontend.git
+	url = git@github.com:yang-sin-pal/CSE303-lab5-frontend.git
 [submodule "order-service"]
 	path = order-service
-	url = git@github.com:khiemnguyen-eiu/order-service.git
+	url = git@github.com:yang-sin-pal/CSE303-lab5-order-service.git
 [submodule "product-service"]
 	path = product-service
-	url = git@github.com:khiemnguyen-eiu/product-service.git
+	url = git@github.com:yang-sin-pal/CSE303-lab5-product-service.git
 [submodule "user-service"]
 	path = user-service
-	url = git@github.com:khiemnguyen-eiu/user-service.git
+	url = git@github.com:yang-sin-pal/CSE303-lab5-user-service.git
